@@ -37,6 +37,7 @@ As seguintes ferramentas foram auxiliadoras no desenvolvimento do projeto:
   https://www.tinkercad.com/things/5eOlHHakUSf/editel?returnTo=%2Fdashboard
 * Marcelo Barbosa 😝🎶
 * Eduardo Farias 🍓
+https://www.tinkercad.com/things/b1a4WxJ7JQA-copy-of-brilliant-kup-jarv?sharecode=Fh5PbdWrcTedZ-LJnDF9NcX-vPEpi2OGJN9rOYVQzMA
 
 ---
 *Atividade concluída com sucesso e pronta para avaliação.*
