@@ -35,7 +35,7 @@ As seguintes ferramentas foram auxiliadoras no desenvolvimento do projeto:
 
 * Sarah Mendonça ✨💗
 * Marcelo Barbosa 😝🎶
-* Eduardo Farias 
+* Eduardo Farias 🍓
 
 ---
 *Atividade concluída com sucesso e pronta para avaliação.*
