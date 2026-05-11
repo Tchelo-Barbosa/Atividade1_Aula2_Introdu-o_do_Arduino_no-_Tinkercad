@@ -1,0 +1,53 @@
+int LED = 4; //LED azul conectado ao pino 13
+int LED2 = 3; // LED vermelho
+int BOTAO = 6; //Botão conectado ao pino 8
+int ESTADO = 0; //Variável para leitura do estado do Botão
+int VAR = 0;
+int VAR2 = 0;
+
+void setup()
+{
+  pinMode(LED, OUTPUT); //Pino 10 do arduino como saída
+  pinMode(BOTAO, INPUT); //Pino com botão será entrada
+  pinMode(LED2, OUTPUT);
+}
+
+void loop()
+{
+  VAR = digitalRead(BOTAO); //Armazena o Estado do botão
+  //Se sim grava LOW (0) na variavel
+  // Se não grava HIGH (1) na variavel
+  
+  if (VAR == 1 && VAR2 == 0) //Se botão estiver pressionado (HIGH)
+  {
+    ESTADO = 1 - ESTADO;
+    delay(10);
+  }
+  VAR2=VAR;
+  if(ESTADO == 1){
+    {
+    digitalWrite(LED, 1);
+    digitalWrite (LED, HIGH);
+    delay (400);
+    digitalWrite (LED, LOW);
+    delay (1000);
+    }
+    if (ESTADO == 1)
+    {
+    digitalWrite(LED2, 0);
+    digitalWrite(LED2, LOW);
+      delay(10);
+    }
+  }
+  else //se não estiver pressionado
+  {
+    digitalWrite(LED, 0); //Apaga o led conectado ao pino 13
+    
+  if (ESTADO == 0)
+    {  
+    digitalWrite(LED2, 1);
+    digitalWrite(LED2, HIGH);
+    delay(10);
+    }
+  }
+} // Meu código tá muito ruim... Tenho que melhorar!
