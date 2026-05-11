@@ -34,6 +34,7 @@ As seguintes ferramentas foram auxiliadoras no desenvolvimento do projeto:
 ## 👥 Integrantes do Grupo
 
 * Sarah Mendonça ✨💗
+  https://www.tinkercad.com/things/5eOlHHakUSf/editel?returnTo=%2Fdashboard
 * Marcelo Barbosa 😝🎶
 * Eduardo Farias 🍓
 
