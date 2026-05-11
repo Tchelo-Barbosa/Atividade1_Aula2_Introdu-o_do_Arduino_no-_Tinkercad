@@ -36,6 +36,7 @@ As seguintes ferramentas foram auxiliadoras no desenvolvimento do projeto:
 * Sarah Mendonça ✨💗
   https://www.tinkercad.com/things/5eOlHHakUSf/editel?returnTo=%2Fdashboard
 * Marcelo Barbosa 😝🎶
+ https://www.tinkercad.com/things/7yFtRYwGZxt-projato-atv1-arduino-marcelo-barbosa?sharecode=g66GLU9d0iDhkr5d5alOxWYCxWFR0ApNuzAs1YPnBwE
 * Eduardo Farias 🍓
 https://www.tinkercad.com/things/b1a4WxJ7JQA-copy-of-brilliant-kup-jarv?sharecode=Fh5PbdWrcTedZ-LJnDF9NcX-vPEpi2OGJN9rOYVQzMA
 
